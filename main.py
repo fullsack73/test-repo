@@ -6,3 +6,5 @@ def display_fruits():
   print("banana")
 
 display_fruits()
+
+print("mango")
